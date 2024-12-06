@@ -26,7 +26,7 @@
  <img align="center" src="https://leetcard.jacoblin.cool/sohereweare?site=cn&theme=wtf&ext=heatmap&font=milonga" />
 </p>
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-season.svg)
  
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
