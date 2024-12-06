@@ -23,7 +23,12 @@
 
 
 <p align="center">
- <img align="center" src="https://leetcard.jacoblin.cool/sohereweare?site=cn&theme=wtf&ext=heatmap&font=milonga" />
+ <img align="center" src="https://leetcard.jacoblin.cool/sohereweare?site=cn&theme=wtf&ext=heatmap" />
+</p>
+
+
+<p align="center">
+ <img align="center" src="https://raw.githubusercontent.com/Wangcasc/Wangcasc/refs/heads/output/github-contribution-grid-snake.svg" />
 </p>
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-season.svg)
