@@ -40,9 +40,9 @@
 
 
 <p align="center">
- <img align="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="200px" />
+ <img align="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="100px" />
  <img align="center" src="https://leetcard.jacoblin.cool/sohereweare?site=cn&theme=wtf&ext=heatmap" />
- <img align="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="200px" />
+ <img align="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="100px" />
 </p>
 
 <p align="center">
