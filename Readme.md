@@ -22,7 +22,6 @@
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Wangcasc&theme=github-compact&hide_border=true&area=true">
-
 </p>
 
 <p align="center">
