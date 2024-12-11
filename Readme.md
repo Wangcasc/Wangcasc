@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello! ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=viewers)
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello! ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=my&title=hi)
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
