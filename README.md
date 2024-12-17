@@ -42,8 +42,6 @@
  <img align="center" src="https://raw.githubusercontent.com/Wangcasc/Wangcasc/refs/heads/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-
 ![Personal 3D Metrics](./profile-3d-contrib/profile-season.svg)
 
 
