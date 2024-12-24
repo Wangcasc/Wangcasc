@@ -14,6 +14,8 @@
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="100px" /> 
  </p>
 
+<p align="center">Student at <a href="https://www.scut.edu.cn/en/">South China University of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" alt="">Master's student in <a href="https://www2.scut.edu.cn/auto_en/">School of Automation Science and Engineering</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt=""> 
+</p>
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
