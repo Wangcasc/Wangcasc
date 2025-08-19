@@ -47,11 +47,11 @@
 ![Personal 3D Metrics](./profile-3d-contrib/profile-season.svg)
 
 
-<p align="center">
+<!--<p align="center">
  <img align="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="100px" />
  <img align="center" src="https://leetcard.jacoblin.cool/sohereweare?site=cn&theme=wtf&ext=heatmap" />
  <img align="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="100px" />
-</p>
+</p>-->
 
 <p align="center">
 <img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
