@@ -7,9 +7,9 @@
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+Jianghu cuisine!" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="100px" /> 
