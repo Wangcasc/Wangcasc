@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="100px" /> 
  </p>
 
-<p align="center">Student at <a href="https://www.scut.edu.cn/en/">South China University of Technology</a>Master's student in <a href="https://www2.scut.edu.cn/auto_en/">School of Automation Science and Engineering</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt=""> 
+<p align="center">Student at <a href="https://www.scut.edu.cn/en/">South China University of Technology</a> PhD student in <a href="https://www2.scut.edu.cn/auto_en/">School of Automation Science and Engineering</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt=""> 
 </p>
  
 <p align="center">
